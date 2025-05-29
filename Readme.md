@@ -1,0 +1,1 @@
+This is a repository for all the Kaggle projects I'm participating or participated in.
